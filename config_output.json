@@ -1,0 +1,11 @@
+{
+    "Database": {
+        "name": "Krishnakumar",
+        "job": "DevOPs",
+        "exp": "15yrs",
+        "skillset": "Jenkins,Gitlab,Githubactions,Docker,K8s,Powershell,Shell"
+    },
+    "Server": {
+        "address": "RavenServer"
+    }
+}
